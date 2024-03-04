@@ -701,7 +701,7 @@ a {
 .transition-trigger {
   z-index: 20;
   padding: 0;
-  display: none;
+  display: block;
 }
 
 .transition-content {
